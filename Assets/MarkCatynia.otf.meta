@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 396d2a1de7e9c4a74bebfb1c684e9997
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mark Catynia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 86efe2c32d9f641c1ae01b8af7956114, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pony
+  - Flowers
+  - PieCut
+  - WheelStick
+  - HorseHeadButton
+  - Challenge
+  - FadingSquare
+  - GameManager
+  - Recording
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pony-1
+    uniqueID: 2924814615
+    locked: 0
+  - name: Pony-2
+    uniqueID: 403774675
+    locked: 0
+  - name: Pony0
+    uniqueID: 328013015
+    locked: 0
+  - name: Pony1
+    uniqueID: 753101381
+    locked: 0
+  - name: Pony2
+    uniqueID: 278184787
+    locked: 0
+  - name: Pony3
+    uniqueID: 2999212105
+    locked: 0
+  - name: Pony4
+    uniqueID: 498338559
+    locked: 0
+  - name: Pony5
+    uniqueID: 670994435
+    locked: 0
+  - name: Pony6
+    uniqueID: 4197729659
+    locked: 0
+  - name: Pony7
+    uniqueID: 1140698917
+    locked: 0
+  - name: Pony8
+    uniqueID: 1652675057
+    locked: 0
+  - name: Pony9
+    uniqueID: 728406907
+    locked: 0
+  - name: Pony10
+    uniqueID: 313327821
+    locked: 0
+  - name: Pony11
+    uniqueID: 2217166201
+    locked: 0
+  - name: Pony12
+    uniqueID: 2275305641
+    locked: 0
+  - name: Pony13
+    uniqueID: 572063529
+    locked: 0
+  - name: Pony14
+    uniqueID: 915223845
+    locked: 0
+  - name: Pony15
+    uniqueID: 3000567295
+    locked: 0
+  - name: Pony16
+    uniqueID: 2726326521
+    locked: 0
+  - name: Pony17
+    uniqueID: 4175140895
+    locked: 0
+  - name: Top
+    uniqueID: 3160369877
+    locked: 0
+  - name: FadingSquare
+    uniqueID: 914897207
+    locked: 0

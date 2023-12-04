@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameScene_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 8026b7867fcf94b91ba344214e3c63ff, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10765721600
+    m_Localized: Attrape les licornes !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358951673856
+    m_Localized: Attrape les filles !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 745251266560
+    m_Localized: Attrape les poneys !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830399832064
+    m_Localized: "Attrape les gar\xE7ons !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949455151104
+    m_Localized: MISSION PERDUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097719603200
+    m_Localized: "MISSION GAGN\xC9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1393485144064
+    m_Localized: Mission Suivante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528688533504
+    m_Localized: Rejouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1683034726400
+    m_Localized: "GAR\xC7ON"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773640081408
+    m_Localized: FILLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1805097361408
+    m_Localized: PONEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1839901696000
+    m_Localized: LICORNE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1917362102272
+    m_Localized: "MANQU\xC9 !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048501211136
+    m_Localized: "PAS INVIT\xC9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22411268317184
+    m_Localized: JOUER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88088901574656
+    m_Localized: "MANQU\xC9E !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88395148681216
+    m_Localized: "PAS INVIT\xC9E"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371233098031104
+    m_Localized: Attrape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372550646358016
+    m_Localized: "Mission n\xB0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375923948904448
+    m_Localized: licornes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375999727394816
+    m_Localized: poneys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376041276170240
+    m_Localized: filles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376076751593472
+    m_Localized: "gar\xE7ons"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1120178241789952
+    m_Localized: Effacer la progression
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1420585392398336
+    m_Localized: "Confidentialit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14944765756825600
+    m_Localized: "POLITIQUE DE CONFIDENTIALIT\xC9\n\nLe jeu Horses Party est disponible
+      sur le Google Play Store. Cette politique de confidentialit\xE9 explique comment
+      Horses Party collecte et utilise les informations personnelles. En t\xE9l\xE9chargeant
+      l'application, vous acceptez la politique de confidentialit\xE9 suivante :\n\nQUELLES
+      INFORMATIONS NOUS COLLECTONS\n\nL'application Horses Party :\n- Ne collecte
+      aucune information personnelle des utilisateurs.\n- Ne contient pas de publicit\xE9
+      et ne permet pas aux entreprises de publicit\xE9 de collecter des donn\xE9es
+      du jeu.\n- N'utilise pas votre localisation g\xE9ographique.\n- Ne contient
+      pas de lien vers des sites internet ou vers d\u2019autres applications\n- Ne
+      contient pas de lien vers les r\xE9seaux sociaux.\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

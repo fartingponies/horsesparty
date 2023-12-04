@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameScene Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameScene
+  m_TableCollectionNameGuidString: 8026b7867fcf94b91ba344214e3c63ff
+  m_Entries:
+  - m_Id: 10765721600
+    m_Key: taptheunicorns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358951673856
+    m_Key: tapthegirls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 745251266560
+    m_Key: taptheponies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830399832064
+    m_Key: taptheboys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949455151104
+    m_Key: gameover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097719603200
+    m_Key: missioncomplete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1393485144064
+    m_Key: nextmission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528688533504
+    m_Key: tryagain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1683034726400
+    m_Key: boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773640081408
+    m_Key: girl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1805097361408
+    m_Key: pony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1839901696000
+    m_Key: unicorn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1917362102272
+    m_Key: missedM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048501211136
+    m_Key: uninvitedM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22411268317184
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88088901574656
+    m_Key: missedF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88395148681216
+    m_Key: uninvitedF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371233098031104
+    m_Key: gather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372550646358016
+    m_Key: mission#
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375923948904448
+    m_Key: unicorns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375999727394816
+    m_Key: ponies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376041276170240
+    m_Key: girls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376076751593472
+    m_Key: boys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1120178241789952
+    m_Key: clearprogress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1420585392398336
+    m_Key: privacy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14944765756825600
+    m_Key: policy
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1570035034582941737
+  references:
+    version: 2
+    RefIds:
+    - rid: 1570035034582941737
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1685111087089

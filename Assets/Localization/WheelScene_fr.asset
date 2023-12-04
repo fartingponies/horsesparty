@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: WheelScene_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 99017f5ee75ee4981b6886a75e79da9c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17392721920
+    m_Localized: TOURNE LA ROUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120509685760
+    m_Localized: "Mission N\xB0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211165372416
+    m_Localized: TOURNE ENCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 554968276992
+    m_Localized: "F\xCATE DES LICORNES"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 618721697792
+    m_Localized: "F\xCATE DES FILLES"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696098217984
+    m_Localized: "F\xCATE DES PONEYS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 761034432512
+    m_Localized: "F\xCATE DES GAR\xC7ONS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 998448816128
+    m_Localized: TOURNE PLUS VITE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

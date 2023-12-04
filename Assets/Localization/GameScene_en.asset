@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameScene_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8026b7867fcf94b91ba344214e3c63ff, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10765721600
+    m_Localized: Gather the unicorns !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358951673856
+    m_Localized: Gather the girls !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 745251266560
+    m_Localized: Gather the ponies !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 830399832064
+    m_Localized: Gather the boys !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 949455151104
+    m_Localized: GAME OVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097719603200
+    m_Localized: MISSION COMPLETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1393485144064
+    m_Localized: Next Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528688533504
+    m_Localized: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1683034726400
+    m_Localized: BOY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773640081408
+    m_Localized: GIRL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1805097361408
+    m_Localized: PONY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1839901696000
+    m_Localized: UNICORN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1917362102272
+    m_Localized: MISSED !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048501211136
+    m_Localized: UNINVITED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22411268317184
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88088901574656
+    m_Localized: MISSED !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88395148681216
+    m_Localized: UNINVITED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371233098031104
+    m_Localized: Gather
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372550646358016
+    m_Localized: Mission #
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375923948904448
+    m_Localized: unicorns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 375999727394816
+    m_Localized: ponies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376041276170240
+    m_Localized: girls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 376076751593472
+    m_Localized: boys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1120178241789952
+    m_Localized: Clear game progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1420585392398336
+    m_Localized: Privacy policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14944765756825600
+    m_Localized: 'HORSES PARTY PRIVACY POLICY
+
+
+      The Horses Party app is available
+      via the Google Play Store. This privacy policy explains how Horses Party collect
+      and use personal information. By downloading the app, you accept the following
+      privacy policy.
+
+
+      WHAT  INFORMATION WE COLLECT
+
+
+      The Horses Party
+      app:
+
+      - Do not collect any personally identifiable information from users.
+
+      -
+      Do not include any advertisements or allow advertising companies to collect
+      data from our app.
+
+      - Do not use your geographic location.
+
+      - Do
+      not link to other websites.
+
+      - Do not link to any social media networks.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
