@@ -1,7 +1,7 @@
 # Horses Party
-Horses Party is an hypercasual **children's game** for **touch devices** featuring ponies and unicorns. It is made with Unity 3D
+Horses Party is an hypercasual **children's game** for **touch devices** featuring ponies and unicorns. It is made with Unity 3D.
 
-You can play the **Web** version here: [Horses Party WebGL](https://crepitus.github.io/horsesparty)
+You can play the **Web** version here: [Horses Party WebGL](https://fartingponies.github.io/horsesparty)
 
 You can play the **Android** version here: [Horses Party Android](https://play.google.com/store/apps/details?id=com.fartingponies.horsesparty)
 
